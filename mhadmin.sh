@@ -6,7 +6,7 @@ mha_work=${mha_base}/
 check_msg=''
 
 
-for ((i=0;i<100;i++)); do
+while true; do 
 echo '############################################'
 echo '#   MHADM(MHA Administrator) Console v1.0  #'
 echo '#   Create by Sizzlei                      #'
